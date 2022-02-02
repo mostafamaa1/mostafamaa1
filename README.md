@@ -8,4 +8,7 @@ Hi there, I'm Mostafa👋
 * 💬 Ask me about anything
 * 👩‍💻 I'm a PHP developer, check my repos for PHP programs
 * 📫 How to reach me: mostafaahmedmaa1@gmail.com 
+* https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+* https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white 
+* http://ForTheBadge.com/images/badges/built-with-swag.svg
 * ⚡ Fun fact: My friends think I'm a hacker 😅
