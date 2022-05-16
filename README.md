@@ -9,7 +9,7 @@ Hi there, I'm Mostafa👋
 * 💬 Ask me about anything
 * 👩‍💻 I'm a PHP developer, check my repos for PHP programs
 * 📫 How to reach me: 
-<p><a href="mostafaahmedmaa1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+<p><a href="infom1tech1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 <a href="https://www.linkedin.com/in/mostafamaa1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-  <a href="https://www.instagram.com/wit_boyyy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a></p>
+  <a href="https://www.instagram.com/m1tech_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a></p>
 * ⚡ Fun fact: My friends think I'm a hacker 😅
