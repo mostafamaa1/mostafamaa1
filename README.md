@@ -1,11 +1,11 @@
-<!-- ![Portfolio]("C:\Users\Acer\Downloads\porfolio.png") -->
-<img src="C:\Users\Acer\Downloads\porfolio.png" alt="Portfolio" title="Portfolio">
+
+![porfolio](https://user-images.githubusercontent.com/81513055/191366387-167a3a26-b841-4e12-94ca-f5fc0de18677.png)
 
 Hi there, I'm Mostafa👋 
 <p>A passionate self-taught full-stack web developer, open-source maintainer, and contributor. My aim is to provide a solid vision for my fellow developers and colleagues that will aid in making their development approach simple and fun!</p>
 
-* 🔭 I’m currently working on PHP projects
-* 🌱 I’m currently learning Codeignitor and Laravel
+* 🔭 I’m currently working on NodeJs projects
+* 🌱 I’m currently learning Typescript
 * 👯 I’m looking to collaborate on Projects
 * 💬 Ask me about anything
 * 👩‍💻 I'm a PHP developer, check my repos for PHP programs
