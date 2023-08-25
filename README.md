@@ -3,10 +3,10 @@
 
 
 Hi there, I'm Mostafa👋 
-<p>I'm an enthusiastic Web developer inspired by the opportunities presented by the diversity of emerging technologies in the Software development industry. My aim is to provide a solid vision for my fellow developers and colleagues that will aid in making their development approach simple and fun!</p>
+<p>I'm an enthusiastic Web developer inspired by the opportunities of emerging technologies in the Software development industry. My aim is to build Cool and unique projects and provide a solid vision for my fellow developers and colleagues that make their development approach simple and fun!</p>
 
-* 🔭 I’m currently working on NodeJs projects
-* 🌱 I’m currently learning React and Redux
+* 🔭 I’m currently working on NextJs projects
+* 🌱 I’m currently learning System Design
 * 👯 I’m looking to collaborate on Projects
 * 💬 Ask me about anything
 * 👨‍💻 I'm a backend developer, check my repos for backend projects
