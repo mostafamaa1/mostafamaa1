@@ -3,7 +3,7 @@
 
 
 Hi there, I'm Mostafa👋 
-<p>Passionate Software Engineer focused on delivering high quality software solutions through innovative system design and
+<p>A Passionate Software Engineer focused on delivering high quality software solutions through innovative system design and
 seamless development. My aim is to build Amazing Products and provide a solid vision for my fellow developers and colleagues to make their development approach simple and fun!</p>
 
 * 🔭 I’m currently working on Laravel & React projects
