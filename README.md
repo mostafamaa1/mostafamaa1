@@ -3,10 +3,11 @@
 
 
 Hi there, I'm Mostafa👋 
-<p>I'm an enthusiastic Web developer inspired by the opportunities of emerging technologies in the Software development industry. My aim is to build Cool and unique projects and provide a solid vision for my fellow developers and colleagues to make their development approach simple and fun!</p>
+<p>Passionate Software Engineer focused on delivering high quality software solutions through innovative system design and
+seamless development. My aim is to build Amazing Products and provide a solid vision for my fellow developers and colleagues to make their development approach simple and fun!</p>
 
-* 🔭 I’m currently working on NextJs projects
-* 🌱 I’m currently learning about System Design
+* 🔭 I’m currently working on Laravel & React projects
+* 🌱 I’m currently learning System Design & Architecture 
 * 👯 I’m looking to collaborate on Projects
 * 💬 Ask me about anything
 * 👨‍💻 I'm a Full-Stack Engineer, check my repos for Full-Stack projects
