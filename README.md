@@ -6,7 +6,7 @@ Hi there, I'm Mostafa👋
 <p>A Passionate Software Engineer focused on delivering high quality software solutions through innovative system design and
 seamless development. My aim is to build Amazing Products and provide a solid vision for my fellow developers and colleagues to make their development approach simple and fun!</p>
 
-* 🔭 I’m currently working on Laravel & React projects
+* 🔭 I’m currently working on NextJs & React projects
 * 🌱 I’m currently learning System Design & Architecture 
 * 👯 I’m looking to collaborate on Projects
 * 💬 Ask me about anything
